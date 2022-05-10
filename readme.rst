@@ -1,5 +1,5 @@
 ###################
-Smart Power Meter
+Website Absen GPS
 ###################
 
-    dikembangkan untuk kebutuhan monitoring arus, tegangan, dan daya listrik
+    dikembangkan untuk kebutuhan projek absen menggunakan gps dan waktu
