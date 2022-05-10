@@ -1,0 +1,4 @@
+-----------------Daftar Enpoint--------------
+http://localhost/webbali/icmp
+http://localhost/webbali/data_sensor
+http://localhost/webbali/relay
